@@ -6,6 +6,10 @@
 
 A Model Context Protocol (MCP) server for managing Memory Banks, allowing AI assistants to store and retrieve information across sessions.
 
+<a href="https://glama.ai/mcp/servers/riei9a6dhx">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/riei9a6dhx/badge" alt="Memory Bank MCP server" />
+</a>
+
 ## Overview 📋
 
 Memory Bank Server provides a set of tools and resources for AI assistants to interact with Memory Banks. Memory Banks are structured repositories of information that help maintain context and track progress across multiple sessions.
