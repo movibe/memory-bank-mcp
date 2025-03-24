@@ -23,6 +23,7 @@ instructions:
             - product-context.md
             - progress.md
             - decision-log.md
+            - system-patterns.md
         3. If any core files are missing:
             - Inform user about missing files
             - Briefly explain their purposes
